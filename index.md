@@ -30,6 +30,7 @@
 - [Czym są typy generyczne? Constraints, kowariancja vs kontrawariancja](generics-constraints-variance.md)
 - [Czym są atrybuty w C#?](attributes-csharp-guide.md)
 - [Co robią słowa kluczowe out, ref, in?](ref-out-in-keywords.md)
+- [Co zmienia wprowadzenie readonly struct, ref struct - czym się różnią od zwykłego struct?](readonly-ref-struct-guide.md)
 
 ## 3. Wielowątkowość i async/await
 - Po co async/await i Task?
