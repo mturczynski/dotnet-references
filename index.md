@@ -33,6 +33,7 @@
 - [Co zmienia wprowadzenie readonly struct, ref struct - czym się różnią od zwykłego struct?](readonly-ref-struct-guide.md)
 - [Co to jest Span<T>? Do czego jest przydatny i jakie ma ograniczenia?](spanT-guide.md)
 - [Jaki jest odpowiednik Span<T> dla sterty?](memoryT-guide.md)
+- [Czym różni się implementacja wewnętrzna Span<T> w .NET Framework 4+ a w .Net Core 2+ i na jakie aspekty ma wpływ?](span-framework-vs-core-internals.md)
 
 ## 3. Wielowątkowość i async/await
 - Po co async/await i Task?
