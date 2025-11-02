@@ -35,6 +35,7 @@
 - [Jaki jest odpowiednik Span<T> dla sterty?](memoryT-guide.md)
 - [Czym różni się implementacja wewnętrzna Span<T> w .NET Framework 4+ a w .Net Core 2+ i na jakie aspekty ma wpływ?](span-framework-vs-core-internals.md)
 - [Czym się różnią rekordy od klas i jakie są zastosowania?](records-vs-classes-guide.md)
+- [Jak działa virtual?](virtual-mechanism-guide.md)
 
 ## 3. Wielowątkowość i async/await
 - Po co async/await i Task?
