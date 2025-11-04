@@ -37,6 +37,7 @@
 - [Czym się różnią rekordy od klas i jakie są zastosowania?](records-vs-classes-guide.md)
 - [Jak działa virtual?](virtual-mechanism-guide.md)
 - [Co jest nie tak z kodem: public async Task<string> Foo(int id, out int userId) { … }](async-out-parameter-problem.md)
+- [Czym jest garbage collector?](garbage-collector-guide.md)
 
 ## 3. Wielowątkowość i async/await
 - Po co async/await i Task?
