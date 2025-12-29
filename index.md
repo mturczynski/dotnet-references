@@ -39,6 +39,7 @@
 - [Co jest nie tak z kodem: public async Task<string> Foo(int id, out int userId) { … }](async-out-parameter-problem.md)
 - [Czym jest garbage collector?](garbage-collector-guide.md)
 - [Jakie są generacje garbage collectora?](gc-generations-guide.md)
+- [Czy wiesz co to jest Large Object Heap (LOH)?](gc-loh-guide.md)
 
 ## 3. Wielowątkowość i async/await
 - Po co async/await i Task?
